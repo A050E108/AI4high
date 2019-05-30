@@ -7,6 +7,7 @@
 
 ## regression analysis回歸
 - [簡單線性回歸](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
+- [波士頓房價( Boston House Price) 的預測(回歸分析)](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Boston_house_prices_prediction.ipynb)
 
 ## 分類:Binary Classification 二元分類[只有兩種類別:是或不是/正常或是異常]
 
