@@ -6,6 +6,7 @@
 # Keras Machine learning機器學習
 
 ## regression analysis回歸
+- [簡單線性回歸](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
 
 ## 分類:Binary Classification 二元分類[只有兩種類別:是或不是/正常或是異常]
 
@@ -27,6 +28,7 @@
 
 # Keras Deep learning深度學習: RNN
 - [IMDB_電影影評](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_RNN_IMDB.ipynb)
+- [IMDB_電影影評2:學習修正錯誤](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_imdb_rnn_ErrorCorrection.ipynb)
 
 # Keras Deep learning深度學習: GAN
 - [DCGAN](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_GAN_DCGAN_CGAN.ipynb)
