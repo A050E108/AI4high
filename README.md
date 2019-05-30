@@ -19,6 +19,11 @@
 
 ## 叢集分析clustering
 
+# Keras Deep learning深度學習:學習資源
+```
+keras開發團隊示範的範例
+https://github.com/keras-team/keras/tree/master/examples
+```
 # Keras Deep learning深度學習: CNN
 - [MNIST_CNN](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_CNN_MNIST_Good.ipynb)
 - [Fashion_MNIST_TPU時尚風格的分類](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Fashion_MNIST_TPU.ipynb)
