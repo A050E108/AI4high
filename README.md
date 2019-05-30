@@ -47,6 +47,12 @@ https://github.com/keras-team/keras/tree/master/examples
 - []()
 - []()
 
-# Keras reinforcement learning強化學習:
+# Keras reinforcement learning強化學習:Tensorflow與Open AI GYM比較好用[進階課程]
+- []()
+- [實戰Atari遊戲]()
+- [DOOM實戰毀滅戰士]()
+- [實戰賽車遊戲]()
+- []()
+- []()
 - []()
 - []()
