@@ -32,7 +32,7 @@
 - [IMDB_電影影評2:學習修正錯誤](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_imdb_rnn_ErrorCorrection.ipynb)
 
 # Keras Deep learning深度學習: GAN
-- [DCGAN_MNIST:使用GAN產生手寫數字讓你無法分辨是人還是積氣寫的](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_GAN_DCGAN_CGAN.ipynb)
+- [DCGAN_MNIST:使用GAN產生手寫數字讓你無法分辨是人還是機器寫的](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_GAN_DCGAN_CGAN.ipynb)
 - []()
 - []()
 
