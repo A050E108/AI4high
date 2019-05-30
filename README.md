@@ -38,16 +38,19 @@ https://github.com/keras-team/keras/tree/master/examples
 - [Neural_Style_Transfer風格轉換的藝術師](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 -
 
-# Keras Deep learning深度學習: RNN
+# Keras Deep learning深度學習: RNN[進階課程]
 - [IMDB_電影影評](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_RNN_IMDB.ipynb)
 - [IMDB_電影影評2:學習修正錯誤](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_imdb_rnn_ErrorCorrection.ipynb)
 
-# Keras Deep learning深度學習: GAN
+# Keras Deep learning深度學習: GAN[進階課程]
 - [DCGAN_MNIST:使用GAN產生手寫數字讓你無法分辨是人還是機器寫的](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_GAN_DCGAN_CGAN.ipynb)
 - []()
 - []()
 
-# Keras reinforcement learning強化學習:Tensorflow與Open AI GYM比較好用[進階課程]
+# Keras reinforcement learning強化學習:[進階課程]
+```
+Tensorflow與Open AI GYM比較好用
+```
 - []()
 - [實戰Atari遊戲]()
 - [DOOM實戰毀滅戰士]()
