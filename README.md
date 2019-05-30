@@ -1,9 +1,18 @@
+# sklearn Machine learning
+
+## 叢集分析clustering
+-[K_means_clustering](https://github.com/MyDearGreatTeacher/AI4high/blob/master/K_means_clustering.ipynb)
+
 # Keras Machine learning
 
-## regression analysis
+## regression analysis回歸
 
--[Neural_Style_Transfer](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Neural_Style_Transfer_with_Eager_Execution.ipynb)
--
+## Classification分類
+-[Multi-Class Classification]()
+
+## 叢集分析clustering
 
 # Keras Deep learning: CNN
-
+-[MNIST_CNN]
+-[Neural_Style_Transfer](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Neural_Style_Transfer_with_Eager_Execution.ipynb)
+-
