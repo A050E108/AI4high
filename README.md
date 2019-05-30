@@ -23,6 +23,9 @@
 - [Neural_Style_Transfer風格轉換的藝術師](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 -
 
+# Keras Deep learning深度學習: RNN
+- [IMDB_電影影評](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_RNN_IMDB.ipynb)
+
 # Keras Deep learning深度學習: GAN
 - [DCGAN](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_GAN_DCGAN_CGAN.ipynb)
 - []()
