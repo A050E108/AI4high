@@ -20,6 +20,8 @@
 # Keras Deep learning深度學習: CNN
 - [MNIST_CNN](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_CNN_MNIST_Good.ipynb)
 - [Fashion_MNIST_TPU時尚風格的分類](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Fashion_MNIST_TPU.ipynb)
+
+### CNN的應用
 - [Neural_Style_Transfer風格轉換的藝術師](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 -
 
