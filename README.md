@@ -7,10 +7,10 @@
 
 ## regression analysis回歸
 
-## Classification分類:Binary Classification 二元分類[只有兩種類別:是或不是/正常或是異常]
+## 分類:Binary Classification 二元分類[只有兩種類別:是或不是/正常或是異常]
 
 
-## Classification分類:Multi-Class Classification多類別分類
+## 分類:Multi-Class Classification多類別分類
 - [IRIS_ML_Classification](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_IRIS_ML_Classification.ipynb)
 - [MNIST_MLP](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_MLP_MNIST.ipynb)
 - []()
