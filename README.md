@@ -52,9 +52,9 @@ https://github.com/keras-team/keras/tree/master/examples
 Tensorflow與Open AI GYM比較好用
 ```
 - []()
-- [實戰Atari遊戲]()
-- [DOOM實戰毀滅戰士]()
-- [實戰賽車遊戲]()
+- [實戰Atari遊戲]
+- [DOOM實戰毀滅戰士]
+- [實戰賽車遊戲]
 - []()
 - []()
 - []()
