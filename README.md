@@ -5,8 +5,11 @@
 
 # Keras Machine learning機器學習
 ```
-Keras說明文件
-https://keras.io/
+Keras說明文件:https://keras.io/
+Keras說明文件(簡體字版):https://keras.io/zh/
+```
+```
+內建的資料集(DataSet):https://keras.io/zh/datasets/
 ```
 ## regression analysis回歸
 - [簡單線性回歸](https://github.com/MyDearGreatTeacher/AI4high/blob/master/Keras_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
