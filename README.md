@@ -46,6 +46,10 @@ https://github.com/keras-team/keras/tree/master/examples
 # Keras reinforcement learning強化學習:[進階課程]
 ```
 Tensorflow與Open AI GYM比較好用
+
+[推薦書籍]碁峰資訊出版
+用Python實作強化學習｜使用TensorFlow與OpenAI Gym
+Hands-On Reinforcement Learning with Python
 ```
 - [實戰Atari遊戲]
 - [DOOM實戰毀滅戰士]
