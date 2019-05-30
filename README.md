@@ -1,7 +1,3 @@
-# sklearn Machine learning
-
-## 叢集分析clustering
--[K_means_clustering](https://github.com/MyDearGreatTeacher/AI4high/blob/master/K_means_clustering.ipynb)
 
 # Keras Machine learning機器學習
 ```
