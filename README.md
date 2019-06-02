@@ -46,6 +46,7 @@ Tensorflow與Open AI GYM比較好用
 [推薦書籍]碁峰資訊出版
 用Python實作強化學習｜使用TensorFlow與OpenAI Gym
 Hands-On Reinforcement Learning with Python
+https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python
 ```
 - [實戰Atari遊戲]
 - [DOOM實戰毀滅戰士]
